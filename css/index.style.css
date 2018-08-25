@@ -1,39 +1,42 @@
-html, body{
-    height:100%;
+html, body {
+    height: 100%;
     overflow-y: hidden;
 }
-body{
+
+body {
     overflow-y: scroll;
 }
-#splash-image{
-    background:url(../picstorage/andrej-lisakov-568525-unsplash.jpg);
+
+#splash-image {
+    background: url(../picstorage/andrej-lisakov-568525-unsplash.jpg);
     background-repeat: no-repeat;
-    background-position: top; 
-    background-size:cover;
+    background-position: top;
 }
 
-.header{
-    margin-bottom:0;    
+.header {
+    margin-bottom: 0;
 }
 
+#lunch {
+    background: url("../picstorage/fancycrave-152531-unsplash.jpg")
+}
 
-#project-discbot{
+#discbot {
     background: url("../picstorage/luana-de-marco-666185-unsplash.jpg");
-    background-size: cover;
 }
 
-#project-soundboard{
+#soundboard {
     background: url("../picstorage/steve-harvey-701351-unsplash.jpg");
-    background-size: cover;
 }
 
-#project-datavilij{
-    
+#datavilij {
     background: url("../picstorage/graph.png");
-    background-size: cover;
 }
 
-#project-MIPS{
+#MIPS {
     background: url("../picstorage/vi-edit.png");
+}
+
+.project {
     background-size: cover;
 }
