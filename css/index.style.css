@@ -8,7 +8,7 @@ body {
 }
 
 #splash-image {
-    background: url(../picstorage/andrej-lisakov-568525-unsplash.jpg);
+    background-image: url(../picstorage/andrej-lisakov-568525-unsplash.jpg);
     background-repeat: no-repeat;
     background-position: top;
 }
@@ -18,23 +18,23 @@ body {
 }
 
 #lunch {
-    background: url("../picstorage/fancycrave-152531-unsplash.jpg")
+    background-image: url("../picstorage/fancycrave-152531-unsplash.jpg")
 }
 
 #discbot {
-    background: url("../picstorage/luana-de-marco-666185-unsplash.jpg");
+    background-image: url("../picstorage/luana-de-marco-666185-unsplash.jpg");
 }
 
 #soundboard {
-    background: url("../picstorage/steve-harvey-701351-unsplash.jpg");
+    background-image: url("../picstorage/steve-harvey-701351-unsplash.jpg");
 }
 
 #datavilij {
-    background: url("../picstorage/graph.png");
+    background-image: url("../picstorage/graph.png");
 }
 
 #MIPS {
-    background: url("../picstorage/vi-edit.png");
+    background-image: url("../picstorage/vi-edit.png");
 }
 
 .project {
